@@ -1,16 +1,16 @@
-# 🎥 IMDb Movie Rating Prediction Model
+# 🚢 Titanic Survival Prediction
 
-This repository contains the **IMDb Movie Rating Prediction Model** developed during the **CodSoft Data Science Internship**. The project focuses on predicting movie ratings based on various features like genre, director, and actors.
+This repository contains the **Titanic Survival Prediction Model** developed during the **CodSoft Data Science Internship**. The project involves predicting the survival of passengers aboard the Titanic using various features like age, gender, ticket class, and fare.
 
 ## 📚 Project Overview
 
 ### 🎯 Objective
-The goal of this project is to build a predictive model that estimates the IMDb ratings of movies. By analyzing historical movie data, the model aims to understand the factors influencing movie ratings and make accurate predictions based on the given features.
+The aim of this project is to build a model that predicts whether a passenger on the Titanic survived or not. This classic dataset is a great starting point for beginners in data science, offering insights into how different factors may have influenced the chances of survival.
 
 ### 🔑 Key Features
-- **Data Analysis**: In-depth exploration of the dataset to understand the distribution and relationships between features.
-- **Feature Engineering**: Application of techniques to preprocess and transform raw data into meaningful input for the model.
-- **Machine Learning Modeling**: Implementation of regression techniques to build a predictive model capable of estimating movie ratings.
+- **Data Analysis**: Comprehensive exploration of the Titanic dataset to understand the characteristics and relationships between features such as passenger class, age, gender, and fare.
+- **Feature Engineering**: Techniques applied to clean and transform the data into a suitable format for model training.
+- **Machine Learning Modeling**: Development of a classification model to predict passenger survival based on historical data.
 
 ## 🛠️ Tools and Technologies
 - **Python** 🐍
@@ -20,10 +20,8 @@ The goal of this project is to build a predictive model that estimates the IMDb 
 - **Matplotlib** and **Seaborn** for data visualization
 
 ## 🙏 Acknowledgments
-I would like to extend my sincere thanks to **CodSoft** for providing the opportunity to work on this project during the Data Science internship. The experience has been instrumental in advancing my understanding of machine learning and predictive modeling.
+I would like to extend my heartfelt thanks to **CodSoft** for the opportunity to work on this project during the Data Science internship. The experience has been invaluable in enhancing my skills in data analysis and machine learning.
 
 ---
 
-This README outlines the purpose and key components of the **IMDb Movie Rating Prediction Model** and expresses gratitude to CodSoft for the internship experience. Feel free to adjust any details as needed!
-
-*Don't forget to ⭐ the repository if you find the project useful!*
+This README outlines the purpose and key components of the **Titanic Survival Prediction Model** and expresses gratitude to CodSoft for the internship experience. Feel free to explore the project, and don't hesitate to ⭐ the repository if you find it helpful!
