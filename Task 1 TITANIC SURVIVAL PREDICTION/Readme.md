@@ -47,8 +47,8 @@ To run this project locally, you need Python installed on your machine. Addition
 
 You can install these dependencies using pip:
 
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
 
 ## Exploratory Data Analysis
 In this step, we explore the dataset to understand the relationships between different features and the survival rate. This involves:
