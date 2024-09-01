@@ -1,7 +1,8 @@
 # CODSOFT
 Collection of diverse data science projects demonstrating expertise in machine learning, data analysis, and visualization. Each project includes clear documentation and code for real-world applications, covering areas like predictive analytics, sentiment analysis, and time series forecasting.
 
-Data Science Projects - CodSoft Internship
+**Data Science Projects - CodSoft Internship**
+
 This repository contains a collection of data science projects completed as part of the CodSoft Data Science internship. The internship provided an excellent opportunity to apply data science techniques to real-world problems, and I'm grateful to CodSoft for enabling these projects.
 
 Projects Overview
